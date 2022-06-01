@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5"><monster><name>Bird-type</name><type>Construct</type><alignment>Lawful Neutral</alignment><ac>17 (Natural Armor)</ac><hp>5 (1d8)</hp><speed>fly 60 ft, walk 20 ft.</speed><str>12</str><dex>15</dex><con>13</con><int>7</int><wis>17</wis><cha>5</cha><save>Dexterity 6</save><save>Constitution 5</save><skill>Acrobatics 6</skill><skill>Athletics 5</skill><skill>Perception 7</skill><skill>Stealth 6</skill><conditionImmune>charmed, exhaustion, frightened</conditionImmune><senses>Darkvision 90ft.</senses><passive>17</passive><languages>Entende uma língua a escolha de seu mestre, mas não fala.</languages><cr>4</cr><trait><name>Type</name><text>Esta criatura pode assumir as seguintes formas quando invocada: Gargoyle, Phoenix ou Wyvern. Ela possuirá habilidades distintas dependendo da forma assumida.
+
+Os pontos de vida do Bird-type são iguais à 5 + 6 vezes o nível do seu mestre.
+
+Seu nível de desafio é definido como metade do nível de seu mestre (arredondado para baixo).</text></trait><trait><name>Innocent Devil&#39;s Core</name><text>É um ser sem vontade própria, somente obedecendo os comandos de seu mestre. Além disso, utiliza sua própria vitalidade para canalizar certas habilidades.</text></trait><trait><name>Bird&#39;s Endurance</name><text>O Bird-type ganha as seguintes habilidades de acordo com sua forma.
+
+• Gargoyle: é imune à petrificação, e possui resistência à dano cortante, perfurante e concussivo advindo de ataques não mágicos.
+
+• Phoenix: Possui resistência a dano de fogo, e imunidade a esse tipo de dano quando em sua forma flamejante.
+
+• Wyvern: Sua AC se torna 19, e possui resistência a dano ácido, veneno, congelante, fogo e raio.</text></trait><trait><name>Glide (Gargoyle/Phoenix)</name><text>Pode carregar seu mestre com suas garras, conseguindo voar com ele a uma distância de até 30 pés.</text></trait><trait><name>Mounting (Wyvern)</name><text>O Bird-type é do tamanho Largo, e pode ser utilizado por seu mestre como uma montaria. Seu mestre possui proficiência em montar o Bird-type.</text></trait><action><name>Multiattack</name><text>Utiliza sua ação para realizar dois ataques, que podem ser com sua mordida ou com suas garras.</text><attack>Claws||1d6+%2</attack><attack>Bite||1d6+%2</attack></action><action><name>Carpet Bombs</name><text>Sobrevoa todos os inimigos em um raio de 30 pés, lançando bombas mágicas neles. As criaturas afetadas deverão realizar um teste de destreza, sofrendo 6d6 de dano de força em uma falha, e apenas metade em um sucesso.
+
+Custo de vida: 12 hp</text><recharge>2/DAY</recharge><attack>||6d6</attack></action><action><name>Sphere of Darkness (Gargoyle)</name><text>Lança três esferas negras em um ou mais alvos a escolha de seu mestre. Elas acertam automaticamente, e cada uma causa 3d6 de dano necrótico. Além disso, a vida máxima da criatura alvo é reduzida pela metade do dano necrótico sofrido.
+
+Custo de vida: 16 hp</text><recharge>1/DAY</recharge><attack>||3d6</attack></action><action><name>Risen from Ashes (Phoenix)</name><text>Se os pontos de vida do Bird-type chegarem a zero, ele renasce no formato de uma fênix em seu próximo turno, utilizado sua ação. O Bird-type recupera metade de seus pontos de vida. Além disso, ele libera uma aura flamejante que envolve seu corpo por 1 minuto, a qual pode ser cancelada por uma ação bônus de seu mestre.
+
+Enquanto na sua forma flamejante, sempre que o Bird-type atacar uma criatura a 5 pés dele, sofrer um ataque corpo-a-corpo ou entrar em contato direto com uma criatura, o alvo sofrerá 2d6 de dano de fogo. Este dano só pode ser aplicado a uma mesma criatura uma vez por turno. Outras habilidades do Bird-type não podem ser utilizadas enquanto este efeito durar.</text><recharge>1/DAY</recharge><attack>||2d6</attack></action><action><name>Draconic Breath (Wyvern)</name><text>O Bird-type sopra uma poderosa rajada que afeta inimigos em cone até 15 pés a sua frente. Alvos desta habilidade deverão rolar um teste de resistência, sofrendo 12d6 de dano caso falhem e metade caso tenham sucesso. O dano causado e o teste realizado são definidos pelo tipo de ataque escolhido.
+
+Dano | Teste
+Ácido | Constituição
+Veneno | Constituição
+Congelante | Constituição
+Fogo | Destreza
+Raio | Destreza
+
+Custo de vida: 16 hp</text><recharge>1/DAY</recharge><attack>||12d6</attack></action><description>Esses tipos voam pelos céus como aves lendárias ou seres dracônicos, e até mesmo criaturas da noite. A única diferença que pode ser percebida entre essas criaturas e este demônio é o cristal rosado presente em seu corpo, seja em seu tórax, seja em sua cauda, ou até em suas pernas.</description></monster>
+</compendium>

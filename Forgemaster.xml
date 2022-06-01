@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5"><class><name>Forgemaster</name><hd>10</hd><proficiency>Dexterity, Charisma, Acrobatics, Arcana, Athletics, Deception, History, Intimidation, Persuasion, Sleight of Hand</proficiency><numSkills>2</numSkills><armor>light, medium, heavy</armor><weapons>simple, martial</weapons><tools>smith&#39;s tools and another artisan&#39;s tool of your choice</tools><wealth>5d4*10</wealth><spellAbility>Charisma</spellAbility><autolevel level="1" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Starting Forgemaster</name><text>Como um Forgemaster de nível 1, você começa a jogar com pontos de vida igual 10 + seu modificador de constituição.
+
+Você é proficiente com os seguintes itens, em adição a qualquer proficiência recebida pela sua raça ou antepassado.
+• Armor: light, medium
+• Weapons: simple, martial
+• Tools: smith&#39;s tools e outra ferramenta de artesão a sua escolha
+• Skills: Escolha 2 dentre Acrobatics, Arcana, Athletics, Deception, History, Intimidation, Persuasion, Sleight of Hand
+
+Você começa a jogar com o seguinte equipamento, em adição a qualquer equipamento providenciado por sua raça ou antepassado.
+• (a) studded leather armor or (b) chain mail
+• (a) shortsword or (b) two simple melee weapons
+• (a) explorer&#39;s pack or (b) scholar&#39;s pack
+• any martial melee weapon and smith&#39;s tools.
+
+Alternativamente, você pode começar com 5d4x10 gp e escolher seu próprio equipamento.</text></feature>
+<feature><name>Flattery With The Secret Arts</name><text>Seu contato com as criaturas dos planos infernais o levou a entender mais sobre eles, os seres que ali habitam e seus objetivos. Você aprende a falar Infernal ou Abyssal, a sua escolha. Além disso, você possui vantagem em qualquer teste de inteligência que realizar para tentar recordar informações sobre demônios.
+
+O DC utilizado para realização de testes de resistência contra suas habilidades de Forgemaster é calculado como 8 + sua proficiência + seu modificador de carisma.</text></feature>
+<feature><name>Devilforging</name><text>A partir do estudo de uma arte a muito esquecida, assimilado ao seu talento nato e conexão única com os planos infernais, você desenvolveu um poder extremamente raro que pode até mesmo rivalizar com os da própria morte. Com o casamento do aço com a magia, você consegue forjar demônios dos planos infernais, os quais o servirão enquanto vivos. 
+
+A natureza desta arte dependerá do tipo de forja escolhida por você, a qual lhe garantirá habilidades neste nível e nos níveis 5, 9, 13 e 17.</text></feature>
+<feature optional="YES"><name>Devilforging: Forge of the Hellraiser</name><text>Você obtem o conhecimento necessário para capturar almas infernais, e instalá-las em cadáveres no seu plano. A forga de demônios por este método é uma arte secreta, há muito tempo proibida, e consequentemente esquecida. Ainda é dito pelos poucos que a conhecem, que esta benção é ainda mais mal vista do que até mesmo a necromancia.</text></feature>
+<feature optional="YES"><name>Hellraiser: Forge Vessel</name><text>Para forjar uma criatura, você deve utilizar sua ação principal, passando sua energia para o cadáver por meio de uma arma corpo-a-corpo, que servirá como catalizadora. Enquanto você não os der ordens, eles não tomarão nenhuma ação ou atacarão criaturas que tentarem te ferir.
+
+Uma criatura forjada mantém seus status, mas seu tipo será demônio, e sua inteligência será 6 ou a sua própria, qual for maior. Caso ela normalmente não saiba nenhuma língua, entenderá Infernal ou Abyssal, a sua escolha, mas ainda não saberá falar. O tipo da criatura que você pode reviver e o nível de desafio máximo aumenta com o seu nível de Forgemaster, como indicado pela tabela abaixo.
+
+lvl | CR | Type
+1 | 1/8 | Undeads, Fiends
+6 | 1/4 | Elementals, Monstrosities
+11 | 1/2 | Aberrations, Dragons
+
+Você pode forjar quantos demônios conseguir, mas só pode manter sob seu controle um número deles igual ao seu modificador de carisma. Caso você forge um demônio enquanto já tiver o número máximo sob seu controle, seu demônio mais antigo sairá do seu controle. Você pode utilizar sua forja um número de vezes ao dia igual sua proficiência, e recupera seus usos com um descanso longo.</text></feature>
+<feature optional="YES"><name>Devilforging: Forge of the Innocent Devil</name><text>Você alcançou os meios para construir suas próprias criaturas demoníacas com ajuda de aço e magia. Uma arte há muito esquecida, os poucos que ainda se lembram dizem que apenas o mais raro dos cristais, encontrado apenas nos planos infernais, pode conter a magia necessária para dar vida à esses constructos demoníacos.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Devilcraft</name><text>Utilizando sua ação principal, você pode conjurar um dos demônios inocentes que possui em um espaço vazio à 30 pés de você, e só pode manter um por vez. Sempre que você invocar um demônio enquanto outro já se encontrar sob seus comandos, o anterior irá retornar à sua dimensão infernal até que seja chamado novamente. Você também pode mandá-los de volta para uma dimensão-bolso utilizando sua ação bônus. Todos os demônios inocentes possuem status e habilidades específicas. Você pode encontrá-los na lista de demônios inocentes.
+
+A criatura obedece somente seus comandos, e caso nenhum seja dado a ela, o demônio irá se defender ou atacar normalmente a criatura mais próxima que tenha tentado ferir seu mestre. Com uma ação bônus, você pode ordenar ao seu demônio inocente que utilize uma de suas habilidades especiais, o que necessita de componente somático. Não é necessária qualquer ação para comandar a criatura a atacar, disparar, desengajar ou se esconder. Além disso, um demônio inocente sob seu comando compartilha sua iniciativa, agindo imediatamente após o seu turno. Por fim, ele não pode fazer mais do que se movimentar para realizar uma das suas ações predestinadas.
+
+Demônio inocentes sob seu controle possuem um bônus de acerto igual o modificador de carisma + sua proficiência, e possuem um bônus nos rolamentos de dano dos seus ataques igual sua proficiência. Além disso, o DC utilizado para as habilidades destas criaturas é igual ao seu DC de forjador de demônios. Quando a vida de um demônio inocente chegar a 0, ele irá desaparecer, retornando para seu plano, de onde só vai poder ser conjurado novamente depois que você realizar um descanso longo. Se você ficar inconsciente, um demônio invocado por você irá desaparecer para sua dimensão.
+
+Caso a habilidade de um demônio inocente que tenha como alvo o forjador seja utilizada nele enquanto outra já estiver sob efeito, a anterior será cancelada. Caso algum efeito tente anular uma habilidade utilizada por um demônio inocente, ela será considerada uma magia de nível igual à metade do nível do seu mestre (máximo 9).</text></feature>
+<feature optional="YES"><name>Innocent Devil: Fairy-type</name><text>Você obtem o conhecimento necessário para forjar o Fairy-type. Suas estatísticas podem ser encontradas na lista de demônios inocentes. Ao fim de um descanso longo, você deve escolher uma das suas seguintes formas: Tiara, Tiramisu ou Comet Star. Esta será a forma que o Fairy-type irá manter sempre que for invocado, até que você realize seu próximo descanso longo.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Feywild Link</name><text>A ligação de seu servo com a magia selvagem reforça sua resiliência mental. Enquanto o Fairy-type estiver invocado e a um máximo de 60 pés de você, magia não pode colocá-lo para dormir, e você possui vantagem em testes de resistência contra encantamento.</text></feature>
+</autolevel><autolevel level="2" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Mystical Forge</name><text>A partir do nível 2, você pode gastar uma quantidade de tempo e dinheiro necessários para produzir certos itens mágicos de utilidades peculiares. Para isso, você precisa estar com ferramentas de joalheiro em mãos, além dos itens necessários para a criação do item, caso o artefato em questão requeira um, e do nível mínimo necessário para forjar o objeto. 
+
+Para forjar um desses itens, você deverá trabalhar durante duas horas, as quais devem ser consumidas durante um descanso longo. Ao fim do trabalho, você deverá se suceder em um teste de inteligência com suas ferramentas de joalheiro (DC = 5 + nível mínimo requerido para fabricar o objeto), ou a criação falhará, resultando em um item sem magia, ou na destruição do item em caso de uma falha por 5 ou mais.
+
+Todos os itens produzidos por meio desta habilidade precisam ser sintonizados para que seus efeitos possam ser utilizados. Além disso, você não pode sintonizar dois ou mais itens iguais, a menos que a descrição do item indique o contrário. Ao final de um descanso curto, você pode sintonizar com um ou mais itens de forjador que você possua. Ultrapassar o limite de itens sintonizados irá finalizar sua conexão mais antiga.</text></feature>
+<feature><name>Forgemaster Itens</name><text>Esta é uma lista dos itens mágicos que podem ser produzidos por um mestre da forja de acordo com seu nível nesta classe.
+_______________________________________
+Nome: Anel da Resistência Mágica
+Requerimentos: 2th level, uma pedra preciosa no valor mínimo de 50 gp.
+Descrição: este anel fornece ao seu usuário resistência a um dos seguintes danos escolhido durante a forja: fogo, congelante, ácido, ou raio. Você pode sintonizar mais de um deste item, e, caso tenha equipado dois anéis sintonizados com o mesmo tipo de resistência, você passará a ter imunidade a esse dano.
+-----------------‐--------------------------------------------
+Nome: Anel da Pureza
+Requerimentos: 2th level, um zircônio no valor mínimo de 100 gp.
+Descrição: este anel fornece ao seu usuário resistência contra dano de veneno, além de imunidade à condição de envenenamento. Você pode sintonizar até dois deste item. Neste caso, você receberá imunidade à dano de veneno.
+-----------------‐--------------------------------------------
+Nome: Anel do Vazio
+Requerimentos: 2th level, um onyx no valor mínimo de 100 gp.
+Descrição: este anel fornece ao seu usuário resistência a dano necrótico e vantagem em testes de resistência contra amedrontamento. Você pode sintonizar mais de um deste item, e, caso possua dois equipados e sintonizados, passará a ter imunidade à dano necrótico.
+-----------------‐--------------------------------------------
+Nome: Anel da Iluminação
+Requerimentos: 2th level, um quartzo no valor mínimo de 100 gp.
+Descrição: este anel fornece ao seu usuário resistência a dano radiante. Com uma ação bônus, você também pode fazer com que a joia crie uma luz mágica que ilumine em luz clara em um raio de até 20 pés, e em penumbra em um raio de mais 20 pés. Você pode sintonizar mais de um deste item, e, caso possua dois equipados e sintonizados, passará a ter imunidade à dano radiante.
+-----------------‐--------------------------------------------
+Nome: Broche do Sexto Sentido
+Requerimentos: 2th level, um ambar no valor mínimo de 100 gp.
+Descrição: este broche prevê e alerta seu usuário sobre o perigo eminente. Você recebe +1 de classe de armadura, e um bônus aos seus testes de resistência de destreza igual seu modificador de sabedoria (mínimo de 1).
+-----------------‐--------------------------------------------
+Nome: Broche da Ligação
+Requerimentos: Hellraiser, 2th level, uma granada no valor mínimo de 200 gp.
+Descrição: este item permite que você se comunique telepaticamente com demônios sob seu controle, e eles sempre entenderão suas ordens. Além disso, um demônio que saiu do seu controle não poderá atacar você nem seus aliados durante 1 hora.
+-----------------‐--------------------------------------------
+Nome: Boneca da Morte
+Requerimentos: 6th level, um coral no valor mínimo de 500 gp.
+Descrição: esta boneca o protegerá das garras da morte. Quando seus pontos de vida forem reduzidos a 0, você retornará com 1 ponto de vida, e a boneca será destruída. Você pode sintonizar múltiplas bonecas.
+-----------------‐--------------------------------------------
+Nome: Suporte do Inocente
+Requerimentos: Innocent Devil, 6th level, uma alexandrita no valor mínimo de 500 gp.
+Descrição: demônios inocentes sob seu controle gastam apenas metade do custo de vida necessário para utilizar suas habilidades.
+-----------------‐--------------------------------------------
+Nome: Megingelos
+Requerimentos: 6th level, uma pedra preciosa no valor mínimo de 1.000 gp.
+Descrição: este item se alimenta da fadiga e da dor física de seu usuário, o fazendo mais forte pelo quanto mais fraco ele estiver. Quando seus pontos de vida estiverem menores que a metade do seu máximo, você rola o dobro de dados para o dano dos seus ataques armados.
+-----------------‐--------------------------------------------
+Nome: Anel Raro
+Requerimentos: 6th level, um opal no valor mínimo de 1.000 gp.
+Descrição: este anel faz com que seu usuário possua uma sorte inexplicável. Sempre que você rolar um 1 natural em um rolamento de ataque, teste de habilidade e de resistência, você pode rolar novamente, e deverá escolher o novo resultado. Além disso, seus ataques com arma causam dano crítico num rolamento de 19 ou maior.
+-----------------‐--------------------------------------------
+Nome: Anel do Corpo e Mente
+Requerimentos: 10th level, uma esmeralda no valor mínimo de 1.000 gp.
+Descrição: este item desperta em seu usuário uma incrível resiliência. Você possui imunidade à atordoamento e paralisia. Você também possui vantagem em testes de resistências contra efeitos que tentem lhe mover contra sua vontade.
+-----------------‐--------------------------------------------
+Nome: Anel da Medusa
+Requerimentos: 10th level, uma safira no valor mínimo de 1.000 gp.
+Descrição: o usuário deste item possui imunidade à petrificação. Além disso, se uma criatura tentar pretrificá-lo, ela deverá realizar o mesmo teste de resistência que tentar impor. Caso falhe, ela sofrerá o efeito.
+-----------------‐--------------------------------------------
+Nome: Anel do Selamento
+Requerimentos: 10th level, uma pérola negra no valor mínimo de 1.000 gp.
+Descrição: o usuário deste item não pode ser afetado por maldições.
+-----------------‐--------------------------------------------
+Nome: Broche do Sacrifício
+Requerimentos: 10th level, um rubi no valor mínimo de 5.000 gp.
+Descrição: enquanto sintonizado com este item, você possui resistência à todos os tipos de dano. Quando você sofrer dano, deverá escolher uma criatura que você controle, e esta irá sofrer o mesmo dano que você, o qual não poderá ser reduzido. Caso você não possua um demônio forjado que possa receber o dano, você irá receber no lugar.
+-----------------‐--------------------------------------------
+Nome: Broche de Mobius
+Requerimentos: Innocent Devil, 14th level, um diamante no valor mínimo de 5.000 gp.
+Descrição: seus demônios inocentes podem conjurar suas habilidades sem custo de vida.
+-----------------‐--------------------------------------------
+Nome: Clava Pumpkin
+Requerimentos: Innocent Devil, 14th level, qualquer duas joias raras cuja soma dos valores seja um mínimo de 10.000 gp.
+Descrição: ela pode ser usada como uma arma, possuíndo as mesmas propriedades de um porrete (Club). Enquanto sintonizada, você pode, com sua ação principal, invocar o Pumpkin-type, um demônio inocente tão peculiar quanto lendário, sobre o qual muito pouco se sabe. Os status do Pumpkin-type podem ser encontrados na lista de demônios inocentes.</text></feature>
+</autolevel><autolevel level="3" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Skilled Crafter</name><text>Você possui experiência como artesão, e conhece bons métodos para economizar recursos quando trabalhando em algum item. 
+
+Você precisa apenas de metade do tempo e do dinheiro necessário para se produzir um item não mágico utilizando alguma ferramenta de artesão. Além disso, sua proficiência é dobrada para testes utilizando ferramentas de artesão em que você é proficiente. Você também pode gastar 1 minuto analisando um objeto não mágico com as ferramentas adequadas ao seu tipo. Ao fazer isso, você sabe dizer qual o preço médio daquele item.</text></feature>
+</autolevel><autolevel level="4" scoreImprovement="YES"><slots>0,0,0,0,0,0,0,0,0,0,</slots></autolevel><autolevel level="5" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Extra Attack</name><text>Começando no nível 5, você pode atacar duas vezes ao invés de uma, sempre que você usar a ação de ataque no seu turno.</text></feature>
+<feature optional="YES"><name>Hellraiser: Quick Devilforging</name><text>Se você finalizar uma criatura com um de seus ataques armados, você pode utilizar a sua ação bônus para transformá-la em um demônio. Caso um demônio seja forjado deste modo, ele pode gastar sua reação para atacar um inimigo no alcance de um de seus ataques presentes no seu stat block.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Battle-type</name><text>Você obtem o conhecimento necessário para forjar o Battle-type. Suas estatísticas podem ser encontradas na lista de demônios inocentes. Ao fim de um descanso longo, você deve escolher uma das suas seguintes formas: Golem, Corpsey, ou Ironside. Esta será a forma que o Battle-type irá manter sempre que for invocado, até que você realize seu próximo descanso longo.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Earth&#39;s Might</name><text>A ligação do seu servo com a terra enrijece seu corpo. Enquanto o Battle-type estiver invocado e a um máximo de 60 pés de você, seus testes de habilidade e resistência de força são realizados com vantagem.</text></feature>
+</autolevel><autolevel level="6" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Forge Energy</name><text>Armas exalam energia mística ao serem empunhadas por você. O dano causado por elas passa a ser mágico para propósitos de ignorar resistências e ivulnerabilidades. Além disso, qualquer arma não mágica empunhada por você recebe +1 nos rolamentos de acerto e de dano. Esse bônus aumenta para +2 no nível 11.</text></feature>
+</autolevel><autolevel level="7" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Sarabande of Healing</name><text>A partir do nível 7, você passa a sugar as energias vitais de seus inimigos com seus ataques para transferí-las aos seus servos. Se você reduzir os pontos de vida de uma criatura para 0 com seus ataques armados, seu demônio inocente ou demônio forjado à sua escolha irá recuperar pontos de vida igual a 2d8 + seu modificador de carisma</text></feature>
+</autolevel><autolevel level="8" scoreImprovement="YES"><slots>0,0,0,0,0,0,0,0,0,0,</slots></autolevel><autolevel level="9" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature optional="YES"><name>Hellraiser: Infernal Ruler</name><text>Ao chegar no nível 9, você pode canalizar porções de sua magia em forma de ordens simples e contínuas, de modo a ampliar seu controle sob criaturas infernais. Tal ordem pode ser, por exemplo, guardar uma propriedade, viajar até uma certa localização, caçar certa criatura ou espécie, entre outras.
+
+Você utiliza sua ação para imbuir tal ordem à um demônio forjado por você, e este deverá tentar cumprir utilizando o máximo de seus esforços. Enquanto estiver cumprindo a ordem dada, este demônio não conta para o número máximo que você pode ter sob seu controle. Você também pode cancelar esta ordem com uma ação bônus, caso o alvo esteja à no máximo 30 pés de você.
+
+Um demônio forjado não pode seguir ordens complexas sob o efeito desta habilidade. Dar uma segunda ordem à um demônio sob seu controle irá cancelar a primeira. Além disso, quando o demônio cumprir a ordem, ou esta for cancelada enquanto você controlar o máximo de criaturas possiveis, ela sairá de seu controle imediatamente.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Bird-type</name><text>Você obtem o conhecimento necessário para forjar o Bird-type. Suas estatísticas podem ser encontradas na lista de demônios inocentes. Ao fim de um descanso longo, você deve escolher uma das suas seguintes formas: Gargoyle, Phoenix ou Wyvern. Esta será a forma que o Bird-type irá manter sempre que for invocado, até que você realize seu próximo descanso longo.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Strength of the Skies</name><text>A ligação de seu servo com os céus reforça seu corpo e o permite resistir até às maiores adversidades. Enquanto o Bird-type estiver invocado e a 60 pés de você, testes de resistência contra climas extremos, doenças e envenenamento são realizados com vantagem.</text></feature>
+</autolevel><autolevel level="10" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Loyal Servant</name><text>Quando um inimigo te acertar um ataque enquanto um demônio sob seu controle estiver a apenas 5 pés de você, você pode gastar sua reação para ordenar telepaticamente ao demônio que te proteja. Quando fizer isso, o seu servo irá se tornar o alvo do golpe no seu lugar. Você não pode utilizar esta habilidade se o demônio estiver se beneficiando de cover em relação à criatura atacante, nem se ele for de uma categoria de tamanho ou mais menor do que você.</text></feature>
+</autolevel><autolevel level="11" ><slots>0,0,0,0,0,0,0,0,0,0,</slots></autolevel><autolevel level="12" scoreImprovement="YES"><slots>0,0,0,0,0,0,0,0,0,0,</slots></autolevel><autolevel level="13" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature optional="YES"><name>Hellraiser: Powerful Devilforging</name><text>A partir do nível 13, você pode imbuir uma grande quantidade de energia para forjar criaturas mais poderosas. Realizando um ritual por 1 minuto, você pode forjar uma criatura de nível de desafio máximo igual a metade do seu nível (arredondado para baixo). Ele não conta para o máximo de demônios que você pode ter sob seu controle.
+
+Você só pode controlar uma criatura por vez utilizando esta habilidade. Caso você utilize esta habilidade novamente, um demônio que você já tiver sob seu controle por meio desta habilidade será libertado automaticamente.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Mage-type</name><text>Você obtem o conhecimento necessário para forjar o Mage-type. Suas estatísticas podem ser encontradas na lista de demônios inocentes. Ao fim de um descanso longo, você deve escolher uma das suas seguintes formas: Abjurer, Enhancer ou Evocator. Esta será a forma que o Mage-type irá manter sempre que for invocado, até que você realize seu próximo descanso longo.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Magic Resistance</name><text>Seu servo compartilha com você segredos arcanos a muito esquecidos, criando entre vocês uma ligação que protege contra magia hostil. Enquanto Mage-type estiver invocado e vocês estiverem a um máximo de 60 pés um do outro, você e o Mage-type possuem vantagem em testes de resistência de inteligência, sabedoria e carisma contra magias e outros efeitos mágicos.</text></feature>
+</autolevel><autolevel level="14" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Follower of Darkness</name><text>A partir do nível 14, sua aura passa a ser extremamente poderosa e intimidante. Um demônio que tentar atacar você deverá realizar um teste de resistência de sabedoria. Em caso de falha, ele perderá sua ação e não poderá usar reações até o início de seu próximo turno. Em caso de sucesso, a criatura estará imune ao efeito por 1 hora. Além disso, você possui vantagem em testes de carisma que realizar para tentar intimidar ou persuadir demônios e mortos-vivos que possuam inteligência 6 ou maior.</text></feature>
+</autolevel><autolevel level="15" ><slots>0,0,0,0,0,0,0,0,0,0,</slots></autolevel><autolevel level="16" scoreImprovement="YES"><slots>0,0,0,0,0,0,0,0,0,0,</slots></autolevel><autolevel level="17" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature optional="YES"><name>Hellraiser: Deadly Devilforging</name><text>Quando você realizar um acerto crítico com um ataque armado contra uma criatura, ela é transformada automaticamente caso morra. Caso ela ainda esteja viva, você pode tentar forçar a forja nela.
+
+A criatura deverá realizar um teste de resistência de constituição, o qual será feito com vantagem se esta ainda estiver com pontos de vida iguais ou maiores que a metade de sua vida máxima. Em caso de falha, os pontos de vida da criatura cairão para 0 e ela será, se possível, automaticamente transformada em um demônio ao seu controle. Você força esta habilidade após aplicar o dano do ataque, e só pode usá-la uma vez por turno.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Devil-type</name><text>Você obtem o conhecimento necessário para forjar o Devil-type. Suas estatísticas podem ser encontradas na lista de demônios inocentes.</text></feature>
+<feature optional="YES"><name>Innocent Devil: Devilish Loyalty</name><text>Sua ligação com seu servo o preenche com um senso de lealdade, fazendo com que ele o proteja com determinação. Caso você seja obrigado a realizar um teste de resistência de força ou destreza, o Devil-type usará sua reação para imediatamente se mover até você pelo caminho mais curto. Caso ele consiga chegar a até 5 pés de você, seu teste de resistência é feito com vantagem. Além disso, você não sofre dano em um sucesso, e apenas metade em uma falha. O Devil-type deverá realizar o mesmo teste com desvantagem, independente do efeito ter alvo único ou não.</text></feature>
+</autolevel><autolevel level="18" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Master of the Forge</name><text>A partir do níve 18, você passa a ter proficiência com todas as ferramentas de artesão. Além disso, caso você role um 9 ou inferior em um teste utilizando ferramentas de artesão, o valor mínimo rolado passa a ser 10.</text></feature>
+</autolevel><autolevel level="19" scoreImprovement="YES"><slots>0,0,0,0,0,0,0,0,0,0,</slots></autolevel><autolevel level="20" ><slots>0,0,0,0,0,0,0,0,0,0,</slots><feature><name>Challenge Death</name><text>Quando seus pontos de vida forem reduzidos para 0, você pode utilizar sua reação para sacrificar um de seus servos presentes ao menos 60 pés de você. Ao fazer isso, você retorna com 1 ponto de vida.</text></feature>
+</autolevel></class></compendium>
